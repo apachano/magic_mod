@@ -1,2 +1,0 @@
-
-mana.subtract(playername, value)
